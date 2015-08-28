@@ -50,6 +50,8 @@ public class ActivityMain extends AppCompatActivity {
 
         dh = DataBaseHandler.getInstance(this);
         controlEvent = new ControlEvent(this);
+
+        //This is a test
     }
 
     @Override
